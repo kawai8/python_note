@@ -2,7 +2,7 @@
 
 import os
  
-path = "/home/sho/lab/python"
+path = "/foo/var/"
 for root, dirs, files in os.walk(path):
     for file in files:
         print(file)
