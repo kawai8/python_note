@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 
 ##os.walk yields a 3-tuple (dirpath, dirnames, filenames) by walking the directory tree.
