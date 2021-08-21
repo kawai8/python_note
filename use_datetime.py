@@ -19,7 +19,7 @@ print(var.ctime())
 
 # today
 print(datetime.date.today())
-print(datetime.datetime.now())
+print(datetime.datetime.now())    #YYYY-MM-DD hh:mm:ss.ffffff
 
 # elapsed days
 print(datetime.date.today() - var)
