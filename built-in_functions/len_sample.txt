@@ -1,3 +1,5 @@
+# https://docs.python.org/ja/3/library/functions.html#len
+
 ##string 
 len('hello world')        #answer=11
 
