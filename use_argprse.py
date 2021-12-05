@@ -8,6 +8,7 @@ parser = argparse.ArgumentParser(description='')
 parser.add_argument(
     "-f", "--file", dest="filename", metavar="FILE",
     action='store', type=str,
+    required = True,
     help="write report to FILE",
     nargs=1
 )
