@@ -7,7 +7,7 @@
 >>> len('こんにちわ')
 5
 
-##bytes
+# bytes
 >>> len('鳥') 
 1
 >>> len('鳥'.encode('utf-8'))
@@ -15,26 +15,26 @@
 >>> len('鳥'.encode('sjis'))
 2
 
-##tuple
+# tuple
 >>> len((0, 1, 2, 3, 4)) 
 5
 
-##list
+# list
 >>> len(['a', 'b', 'c'])
 3
 
-##range
+# range
 >>> len(range(7))
 7
 
-##dictionary
+# dictionary
 >>> len({'key1':'val1', 'key2':'val2'})
 2
 
-#set
+# set
 >>> len({1, 2, 3, 4, 'a', 'b'})
 6
 
-#frozen set
+# frozen set
 >>> len(frozenset({1, 'a'}))
 2
