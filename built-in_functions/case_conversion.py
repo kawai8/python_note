@@ -6,31 +6,31 @@
 # https://docs.python.org/3/library/stdtypes.html?highlight=capitalize#str.title
 
 
-# upper method
->>> 'python'.upper()
-'PYTHON'
->>> 'ｐｙｔｈｏｎ'.upper() # two-byte character
-'ＰＹＴＨＯＮ'
+## upper method
+'python'.upper()
+# 'PYTHON'
+'ｐｙｔｈｏｎ'.upper() # two-byte character
+# 'ＰＹＴＨＯＮ'
 
 
 # lower method
->>> 'PYTHON'.lower()
-'python'
->>> 'ＰＹＴＨＯＮ'.lower() # two-byte character
-'ｐｙｔｈｏｎ'
+'PYTHON'.lower()
+# 'python'
+'ＰＹＴＨＯＮ'.lower() # two-byte character
+# 'ｐｙｔｈｏｎ'
 
 
 # swapcase
->>> 'Hello Python'.swapcase()
-'hELLO pYTHON'
+'Hello Python'.swapcase()
+# 'hELLO pYTHON'
 
 
 # capitalize
->>> 'python programmer'.capitalize()
-'Python programmer'
+'python programmer'.capitalize()
+# 'Python programmer'
 
 
 # title
->>> 'python programmer'.title()
-'Python Programmer'
+'python programmer'.title()
+# 'Python Programmer'
 
