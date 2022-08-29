@@ -20,17 +20,17 @@
 # 'ｐｙｔｈｏｎ'
 
 
-# swapcase
+# swapcase method
 'Hello Python'.swapcase()
 # 'hELLO pYTHON'
 
 
-# capitalize
+# capitalize method
 'python programmer'.capitalize()
 # 'Python programmer'
 
 
-# title
+# title method
 'python programmer'.title()
 # 'Python Programmer'
 
