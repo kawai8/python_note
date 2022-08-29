@@ -1,4 +1,4 @@
-# https://docs.python.org/ja/3/library/functions.html#len
+# https://docs.python.org/3/library/functions.html#len
 
 
 # string
