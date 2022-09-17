@@ -22,12 +22,15 @@ print(str1[4:])
 print(str1[-2:])
 # on
 
+# [start:stop:step]
+print(str1[0:4:2])
+# pt
+
+
 
 # Note how the start is always included, and the end always excluded.
 print(str1[:2] + str1[2:])
 # python
-
-
 
 # out of range slice indexes are handled gracefully when used for slicing:
 print(str1[0:10])
