@@ -26,6 +26,10 @@ print(str1[-2:])
 print(str1[0:4:2])
 # pt
 
+# reverse 
+print(str1[::-1])
+# nohtyp
+
 
 
 # Note how the start is always included, and the end always excluded.
