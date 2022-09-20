@@ -32,17 +32,23 @@ matrix = [
 ]
 nested_list = [[row[i] for row in matrix] for i in range(4)]
 print(nested_list)
+# [[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]
 
 
 # dictionary
 dicA = {i: i**2 for i in range(5)}
 print(dicA)
+# {0: 0, 1: 1, 2: 4, 3: 9, 4: 16}
+
 
 # set
 setA = {i**2%10 for i in range(10)}
 print(setA)
+# {0, 1, 4, 5, 6, 9}
+
 
 # generator expression
 g = (i**2 for i in range(5))
+
 for num in g:
     print(num)
