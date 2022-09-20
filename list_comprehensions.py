@@ -49,6 +49,5 @@ print(setA)
 
 # generator expression
 g = (i**2 for i in range(5))
-
 for num in g:
     print(num)
