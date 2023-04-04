@@ -1,9 +1,5 @@
 # class str
-# https://docs.python.org/3/library/stdtypes.html?highlight=upper#str.upper
-# https://docs.python.org/3/library/stdtypes.html?highlight=lower#str.lower
-# https://docs.python.org/3/library/stdtypes.html?highlight=lower#str.swapcase
-# https://docs.python.org/3/library/stdtypes.html?highlight=capitalize#str.capitalize
-# https://docs.python.org/3/library/stdtypes.html?highlight=capitalize#str.title
+# https://docs.python.org/3/library/stdtypes.html#string-methods
 
 
 ## upper method
