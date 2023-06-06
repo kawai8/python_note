@@ -30,3 +30,13 @@
 'python programmer'.title()
 # 'Python Programmer'
 
+
+# replace method
+# str.replace(old, new[, count])
+'python programmer'.replace("python", "C")
+# 'C programmer'
+'foo foo foo bar foo bar bar'.replace("foo", "run", 2)
+# 'run run foo bar foo bar bar'
+
+
+# 
