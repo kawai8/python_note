@@ -39,4 +39,8 @@
 # 'run run foo bar foo bar bar'
 
 
-# 
+# translate method
+# str.translate(table)
+'engin engin engin'.translate(str.maketrans("eng", "ENG"))
+#'ENGiN ENGiN ENGiN'
+
