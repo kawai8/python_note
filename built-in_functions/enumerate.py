@@ -1,4 +1,6 @@
+# https://docs.python.org/3/library/functions.html#enumerate
 # enumerate(iterable, start=0)
+
 
 my_list = ['cat', 'dog', 'bird']
 for i, animal in enumerate(my_list, start=1)
