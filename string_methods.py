@@ -44,3 +44,9 @@
 'engin engin engin'.translate(str.maketrans("eng", "ENG"))
 #'ENGiN ENGiN ENGiN'
 
+
+# find method
+# str.find(sub[, start[, end]])
+'abcdabcdabcd'.find('a', 2, 8)
+# 4
+
