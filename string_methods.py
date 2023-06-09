@@ -56,3 +56,6 @@
 'abcdabcdabcd'.rfind('a', 2, 10)
 # 8
 
+# index method
+# str.index(sub[, start[, end]])
+
