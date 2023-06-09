@@ -50,3 +50,9 @@
 'abcdabcdabcd'.find('a', 2, 8)
 # 4
 
+
+# rfind method
+# str.rfind(sub[, start[, end]])
+'abcdabcdabcd'.rfind('a', 2, 10)
+# 8
+
