@@ -58,4 +58,12 @@
 
 # index method
 # str.index(sub[, start[, end]])
+'abcdabcdabcd'.index('a', 2, 8)
+# 4
+
+
+# count method
+# str.count(sub[, start[, end]])
+'cat cat dog cat dog'.count('cat')
+# 3
 
