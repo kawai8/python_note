@@ -52,8 +52,8 @@ example
 
 ## format method
 ## str.format(*args, **kwargs)
-example
-# output
+'The sum of 1 + 2 is {0}'.format(1+2)
+# 'The sum of 1 + 2 is 3'
 
 
 ## format_map method
