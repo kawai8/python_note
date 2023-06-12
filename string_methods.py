@@ -52,8 +52,49 @@ example
 
 ## format method
 ## str.format(*args, **kwargs)
-'The sum of 1 + 2 is {0}'.format(1+2)
-# 'The sum of 1 + 2 is 3'
+## https://docs.python.org/3/library/string.html#format-examples
+
+'{0}, {1}, {2}'.format('a', 'b', 'c')
+# 'a, b, c'
+
+'{:,}'.format(1234567890)
+# '1,234,567,890'
+
+# [d] Decimal Number
+# [x] Hexadecimal Number
+# [o] Octal Number
+# [b] Binary Number
+"int: {0:d};  hex: {0:x};  oct: {0:o};  bin: {0:b}".format(42)
+# 'int: 42;  hex: 2a;  oct: 52;  bin: 101010'
+'{:+f}; {:+f}'.format(3.14, -3.14)  # show it always
+# '+3.140000; -3.140000'
+'{: f}; {: f}'.format(3.14, -3.14)  # show a space for positive numbers
+' 3.140000; -3.140000'
+'{:-f}; {:-f}'.format(3.14, -3.14)  # show only the minus -- same as '{:f}; {:f}'
+'3.140000; -3.140000
+
+# Aligning the text and specifying a width
+'{:<30}'.format('left aligned')
+# 'left aligned 
+'{:>30}'.format('right aligned')
+# '                 right aligned'
+'{:^30}'.format('centered')
+# '           centered           '
+'{:*^30}'.format('centered')
+'***********centered***********'
+
+# Accessing arguments by name
+coord = {'latitude': '37.24N', 'longitude': '-115.81W'}
+'Coordinates: {latitude}, {longitude}'.format(**coord)
+# 'Coordinates: 37.24N, -115.81W'
+
+'Correct answers: {:.2%}'.format(19/22)
+# 'Correct answers: 86.36%'
+
+import datetime
+d = datetime.datetime(2010, 7, 4, 12, 15, 58)
+'{:%Y-%m-%d %H:%M:%S}'.format(d)
+# '2010-07-04 12:15:58'
 
 
 ## format_map method
