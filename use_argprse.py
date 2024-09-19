@@ -21,7 +21,7 @@ parser.add_argument(
 #    #nargs='None'
 #)
 
-group = parser.add_mutually_exclusive_group()
+group = parser.add_mutually_exclusive_group(required=False)
 group.add_argument("-v", "--verbose", action="store_true")
 group.add_argument("-q", "--quiet", action="store_true")
 
