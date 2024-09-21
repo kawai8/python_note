@@ -247,8 +247,8 @@ example
 
 ## rindex method
 ## str.rindex(sub[, start[, end]])
-example
-# output
+'abcdabcdabcd'.rindex('a', 2, 10)
+# 8
 
 
 ## rjust method
