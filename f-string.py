@@ -20,3 +20,22 @@ print(f"{today=:%B %d, %Y}")
 now = datetime.now()
 print(f"{now:%Y}/{now:%m}/{now:%d} {now:%H}:{now:%M}:{now:%S}")
 # 2023/09/23 01:37:13
+
+
+# https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes
+# %Y year(yyyy)
+# %y year(yy)
+# %m month
+# %d day of month(01-31)
+# %H hour(00-23)
+# %I hour(00-12)
+# %M minute(00-59)
+# %S second(00-59)
+# %f microsecond(000000-999999)
+# %z UTC offset
+# %Z timezone name
+# %p AM/PM
+# %a weekday short
+# %A weekday full
+# %b month name short
+# %B month name full
