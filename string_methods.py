@@ -295,8 +295,8 @@ example
 
 ## strip method
 ## str.strip([chars])
-example
-# output
+'   spacious   '.strip()
+# 'spacious'
 
 
 ## swapcase method
