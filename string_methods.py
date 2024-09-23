@@ -211,9 +211,9 @@ example
 
 
 ## split method
-## str.split(sep=None, maxsplit=- 1)
-example
-# output
+## str.split(sep=None, maxsplit=-1)
+'1,2,3'.split(',')
+# ['1', '2', '3']
 
 
 ## splitlines method
