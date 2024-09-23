@@ -2,7 +2,7 @@
 | No. | Method            | Description | Example |
 | --: | ----------------- | ----------- | ----------- |
 |1| [capitalize()](https://docs.python.org/3/library/stdtypes.html#str.capitalize)   | Return a copy of the string with its first character capitalized | [code](https://github.com/kawai8/python_note/blob/main/capitalize_method.py) |
-|2| [casefold()](https://docs.python.org/3/library/stdtypes.html#str.casefold) |  |  |
+|2| [casefold()](https://docs.python.org/3/library/stdtypes.html#str.casefold) | Return a casefolded copy of the string |  |
 |3| [center()](https://docs.python.org/3/library/stdtypes.html#str.center) |  |  |
 |4| [count()](https://docs.python.org/3/library/stdtypes.html#str.count) |  |  |
 |5| [encode()](https://docs.python.org/3/library/stdtypes.html#str.encode) |  |  |
