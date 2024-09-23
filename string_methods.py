@@ -297,6 +297,8 @@ example
 ## str.strip([chars])
 '   spacious   '.strip()
 # 'spacious'
+'#....... Section 3.2.1 Issue #32 .......'.strip('.#! ')
+# 'Section 3.2.1 Issue #32'
 
 
 ## swapcase method
