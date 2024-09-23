@@ -203,8 +203,8 @@ example
 
 ## lstrip method
 ## str.lstrip([chars])
-example
-# output
+'   spacious   '.lstrip()
+# 'spacious   '
 
 
 ## maketrans method
@@ -271,8 +271,8 @@ example
 
 ## rstrip method
 ## str.rstrip([chars])
-example
-# output
+'   spacious   '.rstrip()
+# '   spacious'
 
 
 ## split method
