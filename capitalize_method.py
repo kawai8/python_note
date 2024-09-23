@@ -1,15 +1,15 @@
 # capitalize method
-# class str
+# str class
 # https://docs.python.org/3/library/stdtypes.html#str.capitalize
 
 """
-Syntax
+[Syntax]
 str.capitalize()
 
-Parameter
+[Parameter]
 none 
 
-Return
+[Return]
 a copy of the string with its first character capitalized and the rest lowercased
 """
 
