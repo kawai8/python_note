@@ -183,8 +183,15 @@ example
 
 ## join method
 ##str.join(iterable)
-example
-# output
+mydic = {'a':'111', 'b':'222', 'c':'333'}
+','.join(mydic)
+# 'a,b,c'
+','.join(mydic.values())
+# 111,222,333'
+
+mytup = (1, 'two', 3)
+','.join(map(str, mytup))
+# '1,two,3'
 
 
 ## ljust method
