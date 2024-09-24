@@ -8,6 +8,7 @@ str.encode(encoding='utf-8', errors='strict')
 
 [Parameter]
 encoding: the encoding type
+          https://docs.python.org/3/library/codecs.html#standard-encodings
 errors: errors controls
         https://docs.python.org/3/library/codecs.html#error-handlers
 
