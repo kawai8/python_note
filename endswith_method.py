@@ -13,7 +13,6 @@ end: ending position
 
 [Return]
 True if the string ends with the specified suffix.
-
 """
 
 # ------------------------------------------
