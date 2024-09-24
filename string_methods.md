@@ -1,8 +1,8 @@
 # [String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
 | No. | Method            | Description | Example |
 | --: | ----------------- | ----------- | ----------- |
-|1| [capitalize()](https://docs.python.org/3/library/stdtypes.html#str.capitalize)   | Return a copy of the string with its first character capitalized | [code](https://github.com/kawai8/python_note/blob/main/capitalize_method.py) |
-|2| [casefold()](https://docs.python.org/3/library/stdtypes.html#str.casefold) | Return a casefolded copy of the string | [code](https://github.com/kawai8/python_note/blob/main/casefold_method.py) |
+|1| [capitalize()](https://docs.python.org/3/library/stdtypes.html#str.capitalize)   | Return a copy of the string with its first character capitalized. | [code](https://github.com/kawai8/python_note/blob/main/capitalize_method.py) |
+|2| [casefold()](https://docs.python.org/3/library/stdtypes.html#str.casefold) | Return a casefolded copy of the string. | [code](https://github.com/kawai8/python_note/blob/main/casefold_method.py) |
 |3| [center()](https://docs.python.org/3/library/stdtypes.html#str.center) | Return centered in a string of length width. | [code](https://github.com/kawai8/python_note/blob/main/center_method.py) |
 |4| [count()](https://docs.python.org/3/library/stdtypes.html#str.count) |  |  |
 |5| [encode()](https://docs.python.org/3/library/stdtypes.html#str.encode) |  |  |
