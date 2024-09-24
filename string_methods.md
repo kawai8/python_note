@@ -5,7 +5,7 @@
 |2| [casefold()](https://docs.python.org/3/library/stdtypes.html#str.casefold) | Return a casefolded copy of the string. | [code](https://github.com/kawai8/python_note/blob/main/casefold_method.py) |
 |3| [center()](https://docs.python.org/3/library/stdtypes.html#str.center) | Return centered in a string of length width. | [code](https://github.com/kawai8/python_note/blob/main/center_method.py) |
 |4| [count()](https://docs.python.org/3/library/stdtypes.html#str.count) | Return the number of non-overlapping occurrences of substring sub in the range [start, end]. | [code](https://github.com/kawai8/python_note/blob/main/count_method.py) |
-|5| [encode()](https://docs.python.org/3/library/stdtypes.html#str.encode) |  |  |
+|5| [encode()](https://docs.python.org/3/library/stdtypes.html#str.encode) | Return the string encoded to bytes. | [code](https://github.com/kawai8/python_note/blob/main/encode_method.py) |
 |6| [endswith()](https://docs.python.org/3/library/stdtypes.html#str.endswith) |  |  |
 |7| [expandtabs()](https://docs.python.org/3/library/stdtypes.html#str.expandtabs) |  |  |
 |8| [find()](https://docs.python.org/3/library/stdtypes.html#str.find) |  |  |
