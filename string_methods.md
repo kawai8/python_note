@@ -8,7 +8,7 @@
 |5| [encode()](https://docs.python.org/3/library/stdtypes.html#str.encode) | Return the string encoded to bytes. | [code](https://github.com/kawai8/python_note/blob/main/encode_method.py) |
 |6| [endswith()](https://docs.python.org/3/library/stdtypes.html#str.endswith) | Return True if the string ends with the specified suffix, otherwise return False. | [code](https://github.com/kawai8/python_note/blob/main/endswith_method.py) |
 |7| [expandtabs()](https://docs.python.org/3/library/stdtypes.html#str.expandtabs) | Return a copy of the string where all tab characters are replaced by one or more spaces, depending on the current column and the given tab size. | [code](https://github.com/kawai8/python_note/blob/main/expandtabs_method.py) |
-|8| [find()](https://docs.python.org/3/library/stdtypes.html#str.find) |  |  |
+|8| [find()](https://docs.python.org/3/library/stdtypes.html#str.find) | Return the lowest index in the string where substring sub is found within the slice s[start:end].  | [code]() |
 |9| [format()](https://docs.python.org/3/library/stdtypes.html#str.format) |  |  |
 |10| [format_map()](https://docs.python.org/3/library/stdtypes.html#str.format_map) |  |  |
 |11| [index()](https://docs.python.org/3/library/stdtypes.html#str.index) |  |  |
