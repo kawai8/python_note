@@ -8,7 +8,7 @@ str.endswith(suffix[, start[, end]])
 
 [Parameter]
 suffix: string or tuple of suffixes
-start: beginning position
+start: starting position
 end: ending position
 
 [Return]
