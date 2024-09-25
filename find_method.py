@@ -13,6 +13,7 @@ end: ending index
 
 [Return]
 the lowest index in the string where substring sub is found within the slice s[start:end].
+-1 if sub is not found.
 """
 
 # ------------------------------------------
