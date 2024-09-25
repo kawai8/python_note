@@ -11,7 +11,7 @@
 |8| [find()](https://docs.python.org/3/library/stdtypes.html#str.find) | Return the lowest index in the string where substring sub is found within the slice s[start:end].  | [code](https://github.com/kawai8/python_note/blob/main/find_method.py) |
 |9| [format()](https://docs.python.org/3/library/stdtypes.html#str.format) | Perform a string formatting operation. | [code](https://github.com/kawai8/python_note/blob/main/format_method.py) |
 |10| [format_map()](https://docs.python.org/3/library/stdtypes.html#str.format_map) | Similar to str.format(**mapping), except that mapping is used directly and not copied to a dict. | [code](https://github.com/kawai8/python_note/blob/main/format_map_method.py) |
-|11| [index()](https://docs.python.org/3/library/stdtypes.html#str.index) |  |  |
+|11| [index()](https://docs.python.org/3/library/stdtypes.html#str.index) | Like find(), but raise ValueError when the substring is not found. | [code](https://github.com/kawai8/python_note/blob/main/index_method.py) |
 |12| [isalnum()](https://docs.python.org/3/library/stdtypes.html#str.isalnum)   | Return True if all characters in the string are alphanumeric |
 |13| [isalpha()](https://docs.python.org/3/library/stdtypes.html#str.isalpha)     | Return True if all characters in the string are alphabetic  |
 |14| [isascii()](https://docs.python.org/3/library/stdtypes.html#str.isascii)     | Return True if the string is empty or all characters in the string are ASCII |
