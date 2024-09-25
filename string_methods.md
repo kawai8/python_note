@@ -24,7 +24,7 @@
 |21| [isspace()](https://docs.python.org/3/library/stdtypes.html#str.isspace)     | Return True if there are only whitespace characters in the string |
 |22| [istitle()](https://docs.python.org/3/library/stdtypes.html#str.istitle)     | Return True if the string is a titlecased string |
 |23| [isupper()](https://docs.python.org/3/library/stdtypes.html#str.isupper)     | Return True if all cased characters in the string are uppercase |
-|24| [join()](https://docs.python.org/3/library/stdtypes.html#str.join) |  |  |
+|24| [join()](https://docs.python.org/3/library/stdtypes.html#str.join) | Return a string which is the concatenation of the strings in iterable. | [code](https://github.com/kawai8/python_note/blob/main/join_method.py) |
 |25| [ljust()](https://docs.python.org/3/library/stdtypes.html#str.ljust) |  |  |
 |26| [lower()](https://docs.python.org/3/library/stdtypes.html#str.lower) |  |  |
 |27| [lstrip()](https://docs.python.org/3/library/stdtypes.html#str.lstrip) |  |  |
