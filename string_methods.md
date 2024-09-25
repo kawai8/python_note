@@ -9,7 +9,7 @@
 |6| [endswith()](https://docs.python.org/3/library/stdtypes.html#str.endswith) | Return True if the string ends with the specified suffix, otherwise return False. | [code](https://github.com/kawai8/python_note/blob/main/endswith_method.py) |
 |7| [expandtabs()](https://docs.python.org/3/library/stdtypes.html#str.expandtabs) | Return a copy of the string where all tab characters are replaced by one or more spaces, depending on the current column and the given tab size. | [code](https://github.com/kawai8/python_note/blob/main/expandtabs_method.py) |
 |8| [find()](https://docs.python.org/3/library/stdtypes.html#str.find) | Return the lowest index in the string where substring sub is found within the slice s[start:end].  | [code](https://github.com/kawai8/python_note/blob/main/find_method.py) |
-|9| [format()](https://docs.python.org/3/library/stdtypes.html#str.format) |  |  |
+|9| [format()](https://docs.python.org/3/library/stdtypes.html#str.format) | Perform a string formatting operation. | [code](https://github.com/kawai8/python_note/blob/main/format_method.py) |
 |10| [format_map()](https://docs.python.org/3/library/stdtypes.html#str.format_map) |  |  |
 |11| [index()](https://docs.python.org/3/library/stdtypes.html#str.index) |  |  |
 |12| [isalnum()](https://docs.python.org/3/library/stdtypes.html#str.isalnum)   | Return True if all characters in the string are alphanumeric |
