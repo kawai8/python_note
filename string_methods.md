@@ -26,7 +26,7 @@
 |23| [isupper()](https://docs.python.org/3/library/stdtypes.html#str.isupper)     | Return True if all cased characters in the string are uppercase |
 |24| [join()](https://docs.python.org/3/library/stdtypes.html#str.join) | Return a string which is the concatenation of the strings in iterable. | [code](https://github.com/kawai8/python_note/blob/main/join_method.py) |
 |25| [ljust()](https://docs.python.org/3/library/stdtypes.html#str.ljust) | Return the string left justified in a string of length width. | [code](https://github.com/kawai8/python_note/blob/main/ljust_method.py) |
-|26| [lower()](https://docs.python.org/3/library/stdtypes.html#str.lower) |  |  |
+|26| [lower()](https://docs.python.org/3/library/stdtypes.html#str.lower) | Return a copy of the string with all the cased characters converted to lowercase. | [code](https://github.com/kawai8/python_note/blob/main/lower_method.py) |
 |27| [lstrip()](https://docs.python.org/3/library/stdtypes.html#str.lstrip) |  |  |
 |28| [maketrans()](https://docs.python.org/3/library/stdtypes.html#str.maketrans) |  |  |
 |29| [partition()](https://docs.python.org/3/library/stdtypes.html#str.partition) |  |  |
