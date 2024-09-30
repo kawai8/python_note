@@ -25,7 +25,7 @@
 |22| [istitle()](https://docs.python.org/3/library/stdtypes.html#str.istitle)     | Return True if the string is a titlecased string |
 |23| [isupper()](https://docs.python.org/3/library/stdtypes.html#str.isupper)     | Return True if all cased characters in the string are uppercase |
 |24| [join()](https://docs.python.org/3/library/stdtypes.html#str.join) | Return a string which is the concatenation of the strings in iterable. | [code](https://github.com/kawai8/python_note/blob/main/join_method.py) |
-|25| [ljust()](https://docs.python.org/3/library/stdtypes.html#str.ljust) |  |  |
+|25| [ljust()](https://docs.python.org/3/library/stdtypes.html#str.ljust) | Return the string left justified in a string of length width. | [code](https://github.com/kawai8/python_note/blob/main/ljust_method.py) |
 |26| [lower()](https://docs.python.org/3/library/stdtypes.html#str.lower) |  |  |
 |27| [lstrip()](https://docs.python.org/3/library/stdtypes.html#str.lstrip) |  |  |
 |28| [maketrans()](https://docs.python.org/3/library/stdtypes.html#str.maketrans) |  |  |
