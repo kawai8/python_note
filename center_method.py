@@ -7,7 +7,7 @@
 str.center(width[, fillchar])
 
 [Parameter]
-width: length of the string
+width: width of the returned string
 fillchar: padding character
 
 [Return]
