@@ -29,7 +29,7 @@
 |26| [lower()](https://docs.python.org/3/library/stdtypes.html#str.lower) | Return a copy of the string with all the cased characters converted to lowercase. | [code](https://github.com/kawai8/python_note/blob/main/lower_method.py) |
 |27| [lstrip()](https://docs.python.org/3/library/stdtypes.html#str.lstrip) | Return a copy of the string with leading characters removed. | [code](https://github.com/kawai8/python_note/blob/main/lstrip_method.py) |
 |28| [maketrans()](https://docs.python.org/3/library/stdtypes.html#str.maketrans) | Returns a translation table usable for str.translate(). | [code](https://github.com/kawai8/python_note/blob/main/maketrans_method.py) |
-|29| [partition()](https://docs.python.org/3/library/stdtypes.html#str.partition) |  |  |
+|29| [partition()](https://docs.python.org/3/library/stdtypes.html#str.partition) | Return a 3-tuple containing the part before the separator, the separator itself, and the part after the separator. | [code](https://github.com/kawai8/python_note/blob/main/partition_method.py) |
 |30| [removeprefix()](https://docs.python.org/3/library/stdtypes.html#str.removeprefix) |  |  |
 |31| [removesuffix()](https://docs.python.org/3/library/stdtypes.html#str.removesuffix) |  |  |
 |32| [replace()](https://docs.python.org/3/library/stdtypes.html#str.replace) |  |  |
