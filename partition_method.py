@@ -18,3 +18,6 @@ a 3-tuple containing the part before the separator, the separator itself, and th
 # ------------------------------------------
 print('example@xxx.come'.partition('@'))
 # output: ('example', '@', 'xxx.come')
+
+print('example@xxx.come@zzzz'.partition('@'))
+# output: ('example', '@', 'xxx.come@zzzz')
