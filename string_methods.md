@@ -28,7 +28,7 @@
 |25| [ljust()](https://docs.python.org/3/library/stdtypes.html#str.ljust) | Return the string left justified in a string of length width. | [code](https://github.com/kawai8/python_note/blob/main/ljust_method.py) |
 |26| [lower()](https://docs.python.org/3/library/stdtypes.html#str.lower) | Return a copy of the string with all the cased characters converted to lowercase. | [code](https://github.com/kawai8/python_note/blob/main/lower_method.py) |
 |27| [lstrip()](https://docs.python.org/3/library/stdtypes.html#str.lstrip) | Return a copy of the string with leading characters removed. | [code](https://github.com/kawai8/python_note/blob/main/lstrip_method.py) |
-|28| [maketrans()](https://docs.python.org/3/library/stdtypes.html#str.maketrans) | Returns a translation table usable for str.translate(). | [code]() |
+|28| [maketrans()](https://docs.python.org/3/library/stdtypes.html#str.maketrans) | Returns a translation table usable for str.translate(). | [code](https://github.com/kawai8/python_note/blob/main/maketrans_method.py) |
 |29| [partition()](https://docs.python.org/3/library/stdtypes.html#str.partition) |  |  |
 |30| [removeprefix()](https://docs.python.org/3/library/stdtypes.html#str.removeprefix) |  |  |
 |31| [removesuffix()](https://docs.python.org/3/library/stdtypes.html#str.removesuffix) |  |  |
