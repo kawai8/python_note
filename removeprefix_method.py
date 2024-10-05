@@ -11,7 +11,7 @@ str.removeprefix(prefix, /)
 prefix: prefix string
 
 [Return]
-string[len(prefix):].
+string[len(prefix):]
 """
 
 # ------------------------------------------
