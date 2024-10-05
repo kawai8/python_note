@@ -33,7 +33,7 @@
 |30| [removeprefix()](https://docs.python.org/3/library/stdtypes.html#str.removeprefix) | Removes the prefix and returns the rest of the string. | [code](https://github.com/kawai8/python_note/blob/main/removeprefix_method.py) |
 |31| [removesuffix()](https://docs.python.org/3/library/stdtypes.html#str.removesuffix) | Removes the suffix and returns the rest of the string.  | [code](https://github.com/kawai8/python_note/blob/main/removesuffix_method.py) |
 |32| [replace()](https://docs.python.org/3/library/stdtypes.html#str.replace) | Return a copy of the string with all occurrences of substring old replaced by new. | [code](https://github.com/kawai8/python_note/blob/main/replace_method.py) |
-|33| [rfind()](https://docs.python.org/3/library/stdtypes.html#str.rfind) |  |  |
+|33| [rfind()](https://docs.python.org/3/library/stdtypes.html#str.rfind) | Return the highest index in the string where substring sub is found, such that sub is contained within s[start:end]. | [code](https://github.com/kawai8/python_note/blob/main/rfind_method.py) |
 |34| [rindex()](https://docs.python.org/3/library/stdtypes.html#str.rindex) |  |  |
 |35| [rjust()](https://docs.python.org/3/library/stdtypes.html#str.rjust) |  |  |
 |36| [rpartition()](https://docs.python.org/3/library/stdtypes.html#str.rpartition) |  |  |
