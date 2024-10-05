@@ -31,7 +31,7 @@
 |28| [maketrans()](https://docs.python.org/3/library/stdtypes.html#str.maketrans) | Returns a translation table usable for str.translate(). | [code](https://github.com/kawai8/python_note/blob/main/maketrans_method.py) |
 |29| [partition()](https://docs.python.org/3/library/stdtypes.html#str.partition) | Return a 3-tuple containing the part before the separator, the separator itself, and the part after the separator. | [code](https://github.com/kawai8/python_note/blob/main/partition_method.py) |
 |30| [removeprefix()](https://docs.python.org/3/library/stdtypes.html#str.removeprefix) | Removes the prefix and returns the rest of the string. | [code](https://github.com/kawai8/python_note/blob/main/removeprefix_method.py) |
-|31| [removesuffix()](https://docs.python.org/3/library/stdtypes.html#str.removesuffix) |  |  |
+|31| [removesuffix()](https://docs.python.org/3/library/stdtypes.html#str.removesuffix) | Removes the suffix and returns the rest of the string.  | [code](https://github.com/kawai8/python_note/blob/main/removesuffix_method.py) |
 |32| [replace()](https://docs.python.org/3/library/stdtypes.html#str.replace) |  |  |
 |33| [rfind()](https://docs.python.org/3/library/stdtypes.html#str.rfind) |  |  |
 |34| [rindex()](https://docs.python.org/3/library/stdtypes.html#str.rindex) |  |  |
