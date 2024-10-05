@@ -9,6 +9,7 @@ str.replace(old, new[, count])
 [Parameter]
 old: the substring to search for
 new: the substring to replace the old with
+count: the number of times to replace the old　with the new
 
 [Return]
 a copy of the string with all occurrences of substring old replaced by new.
