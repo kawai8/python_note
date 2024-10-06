@@ -13,6 +13,7 @@ end: end index
 
 [Return]
 the highest index in the string where substring sub is found, such that sub is contained within s[start:end]. 
+Like rfind() but raises ValueError when the substring sub is not found.
 """
 
 # ------------------------------------------
