@@ -35,7 +35,7 @@
 |32| [replace()](https://docs.python.org/3/library/stdtypes.html#str.replace) | Return a copy of the string with all occurrences of substring old replaced by new. | [code](https://github.com/kawai8/python_note/blob/main/replace_method.py) |
 |33| [rfind()](https://docs.python.org/3/library/stdtypes.html#str.rfind) | Return the highest index in the string where substring sub is found, such that sub is contained within s[start:end]. | [code](https://github.com/kawai8/python_note/blob/main/rfind_method.py) |
 |34| [rindex()](https://docs.python.org/3/library/stdtypes.html#str.rindex) | Like rfind() but raises ValueError when the substring sub is not found. | [code](https://github.com/kawai8/python_note/blob/main/rindex_method.py) |
-|35| [rjust()](https://docs.python.org/3/library/stdtypes.html#str.rjust) |  |  |
+|35| [rjust()](https://docs.python.org/3/library/stdtypes.html#str.rjust) | Return the string right justified in a string of length width. | [code](https://github.com/kawai8/python_note/blob/main/rjust_method.py) |
 |36| [rpartition()](https://docs.python.org/3/library/stdtypes.html#str.rpartition) |  |  |
 |37| [rsplit()](https://docs.python.org/3/library/stdtypes.html#str.rsplit) |  |  |
 |38| [rstrip](https://docs.python.org/3/library/stdtypes.html#str.rstrip) |  |  |
