@@ -27,5 +27,5 @@ print('01234567893'.rfind('3'))
 print('01234567893'.rfind('3', 1, 10))
 # output : 3
 
-print('01234567893'.rfind('a', 1, 10))
+#print('01234567893'.rfind('a', 1, 10))
 # output : -1
