@@ -40,7 +40,7 @@
 |37| [rsplit()](https://docs.python.org/3/library/stdtypes.html#str.rsplit) | Return a list of the words in the string, using sep as the delimiter string. | [code](https://github.com/kawai8/python_note/blob/main/rsplit_method.py) |
 |38| [rstrip](https://docs.python.org/3/library/stdtypes.html#str.rstrip) | Return a copy of the string with trailing characters removed.  | [code](https://github.com/kawai8/python_note/blob/main/rstrip_method.py) |
 |39| [split()](https://docs.python.org/3/library/stdtypes.html#str.split) | Return a list of the words in the string, using sep as the delimiter string. | [code](https://github.com/kawai8/python_note/blob/main/split_method.py) |
-|40| [splitlines()](https://docs.python.org/3/library/stdtypes.html#str.splitlines) |  |  |
+|40| [splitlines()](https://docs.python.org/3/library/stdtypes.html#str.splitlines) | Return a list of the lines in the string, breaking at line boundaries. | [code](https://github.com/kawai8/python_note/blob/main/splitlines_method.py) |
 |41| [startswith()](https://docs.python.org/3/library/stdtypes.html#str.startswith) |  |  |
 |42| [strip()](https://docs.python.org/3/library/stdtypes.html#str.strip) |  |  |
 |43| [swapcase()](https://docs.python.org/3/library/stdtypes.html#str.swapcase) |  |  |
