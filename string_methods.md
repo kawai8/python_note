@@ -37,7 +37,7 @@
 |34| [rindex()](https://docs.python.org/3/library/stdtypes.html#str.rindex) | Like rfind() but raises ValueError when the substring sub is not found. | [code](https://github.com/kawai8/python_note/blob/main/rindex_method.py) |
 |35| [rjust()](https://docs.python.org/3/library/stdtypes.html#str.rjust) | Return the string right justified in a string of length width. | [code](https://github.com/kawai8/python_note/blob/main/rjust_method.py) |
 |36| [rpartition()](https://docs.python.org/3/library/stdtypes.html#str.rpartition) | Split the string at the last occurrence of sep, and return a 3-tuple containing the part before the separator, the separator itself, and the part after the separator.  | [code](https://github.com/kawai8/python_note/blob/main/rpartition_method.py) |
-|37| [rsplit()](https://docs.python.org/3/library/stdtypes.html#str.rsplit) |  |  |
+|37| [rsplit()](https://docs.python.org/3/library/stdtypes.html#str.rsplit) | Return a list of the words in the string, using sep as the delimiter string. | [code](https://github.com/kawai8/python_note/blob/main/rsplit_method.py) |
 |38| [rstrip](https://docs.python.org/3/library/stdtypes.html#str.rstrip) |  |  |
 |39| [split()](https://docs.python.org/3/library/stdtypes.html#str.split) |  |  |
 |40| [splitlines()](https://docs.python.org/3/library/stdtypes.html#str.splitlines) |  |  |
