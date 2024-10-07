@@ -7,7 +7,11 @@
 str.strip(chars])
 
 [Parameter]
-chars: a string specifying the set of characters to be removed. 
+chars: a string specifying the set of characters to be removed
+
+If omitted or None, the chars argument defaults to removing whitespace. 
+# import string
+# string.whitespace
 
 [Return]
 a copy of the string with the leading and trailing characters removed
