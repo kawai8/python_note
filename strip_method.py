@@ -17,7 +17,7 @@ a copy of the string with the leading and trailing characters removed
 # Example
 # ------------------------------------------
 print("'" + '  spacious   '.strip() + "'")
-# output: 'spacious   '
+# output: 'spacious'
 
 print("'" + 'www.example.com'.strip('cmowz.') + "'")
-# output: 'example.com'
+# output: 'example'
