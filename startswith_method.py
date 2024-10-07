@@ -20,3 +20,6 @@ True if string starts with the prefix
 # ------------------------------------------
 print('python programmer'.startswith('py'))
 # output: True
+
+print('python programmer'.startswith('thon', 2, 8))
+# output: True
