@@ -44,7 +44,7 @@
 |41| [startswith()](https://docs.python.org/3/library/stdtypes.html#str.startswith) | Return True if string starts with the prefix | [code](https://github.com/kawai8/python_note/blob/main/startswith_method.py) |
 |42| [strip()](https://docs.python.org/3/library/stdtypes.html#str.strip) | Return a copy of the string with the leading and trailing characters removed. | [code](https://github.com/kawai8/python_note/blob/main/strip_method.py) |
 |43| [swapcase()](https://docs.python.org/3/library/stdtypes.html#str.swapcase) | Return a copy of the string with uppercase characters converted to lowercase and vice versa. | [code](https://github.com/kawai8/python_note/blob/main/swapcase_method.py) |
-|44| [title()](https://docs.python.org/3/library/stdtypes.html#str.title) |  |  |
+|44| [title()](https://docs.python.org/3/library/stdtypes.html#str.title) | Return a titlecased version of the string where words start with an uppercase character and the remaining characters are lowercase. | [code](https://github.com/kawai8/python_note/blob/main/title_method.py) |
 |45| [translate()](https://docs.python.org/3/library/stdtypes.html#str.translate) |  |  |
 |46| [upper()](https://docs.python.org/3/library/stdtypes.html#str.upper) |  |  |
 |47| [zfill()](https://docs.python.org/3/library/stdtypes.html#str.zfill) |  |  |
