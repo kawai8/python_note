@@ -3,11 +3,14 @@ from datetime import date, datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 import sys
 
+JST = ZoneInfo(key="Asia/Tokyo")
+
+
 def d_from(str_date):
     try:
         str_date = str_date + ' 00:00:00'
         x = datetime.strptime(str_date, "%Y-%m-%d %H:%M:%S")
-        return x.astimezone(ZoneInfo(key="Asia/Tokyo"))
+        return x.astimezone(JST)
     except ValueError:
         err_msg = "The Start Date is invalid"
     raise argparse.ArgumentTypeError(err_msg)
