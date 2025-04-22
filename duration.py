@@ -20,7 +20,7 @@ def d_till(str_date):
     try:
         str_date = str_date + ' 23:59:59'
         x = datetime.strptime(str_date, "%Y-%m-%d %H:%M:%S")
-        return x.astimezone(ZoneInfo(key="Asia/Tokyo"))
+        return x.astimezone(JST)
     except ValueError:
         err_msg = "The End Date is invalid"
     raise argparse.ArgumentTypeError(err_msg)
