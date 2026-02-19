@@ -45,3 +45,26 @@ class Logging:
 
     def critical(self, msg):
         self.logger.critical(msg)
+
+
+
+
+
+
+# Usage Examples
+from lib import logging
+
+# default settings
+log_dir = work_dir + '/log/'
+log_file = log_dir + 'main.log'
+
+# create logger
+log = logging.Logging(filename=log_file)
+
+# logging
+log.debug('xxxxxxxxxxxxxxxxx')
+log.info('xxxxxxxxxxxxxxxxx')
+log.warning('xxxxxxxxxxxxxxxxx')
+log.error('xxxxxxxxxxxxxxxxx')
+log.critical('xxxxxxxxxxxxxxxxx')
+
